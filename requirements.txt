@@ -1,0 +1,4 @@
+numpy
+onnxruntime          # replace with the QNN-enabled build on Snapdragon PCs
+faster-whisper       # CPU baseline for speech-to-text
+llama-cpp-python     # CPU baseline for local LLM summaries
